@@ -7,13 +7,13 @@ A modern website UI/UX design created using Figma, focusing on clean layouts, in
 - Figma
 
 ## Design Preview
-🔗 [View Full Design on Figma](https://www.figma.com/design/RjTo35NLHKGefPzY9kQVMR/EMS?node-id=0-1&t=2VqkZmdLJko8Rixi-1)
+  [View Full Design on Figma](https://www.figma.com/design/RjTo35NLHKGefPzY9kQVMR/EMS?node-id=0-1&t=2VqkZmdLJko8Rixi-1)
 
-## 📄 Project Presentation
+## Project Presentation
 
-[View PDF Presentation](./Employee_Management_Sysyem.pdf)
+[View PDF Presentation](./Employee%20Management%20System.pdf)
 
-[Download PDF](./Employee_Management_Sysyem.pdf)
+[Download PDF](./Employee%20Management%20System.pdf)
 
 ## Project Highlights
 - Modern and clean interface
