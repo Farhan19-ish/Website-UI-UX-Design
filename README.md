@@ -9,6 +9,12 @@ A modern website UI/UX design created using Figma, focusing on clean layouts, in
 ## Design Preview
 🔗 [View Full Design on Figma](https://www.figma.com/design/RjTo35NLHKGefPzY9kQVMR/EMS?node-id=0-1&t=2VqkZmdLJko8Rixi-1)
 
+## 📄 Project Presentation
+
+[View PDF Presentation](./Website_UI_UX_Presentation.pdf)
+
+[Download PDF](./Website_UI_UX_Presentation.pdf)
+
 ## Project Highlights
 - Modern and clean interface
 - User-friendly navigation
